@@ -7,7 +7,7 @@ The datasets are available on the [Kaggle site](https://www.kaggle.com/c/titanic
 Alongside the tutorial, I strengthened my basic knowledge of machine learning and building machine learning models.   
 I also improved the accuracy of the tutorial model.   
    
-This project is only an appetizer and helps me to remember the fundamentals after a while of not coding machine learning models.
+
 
 
 
